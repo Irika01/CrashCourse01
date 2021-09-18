@@ -1,0 +1,8 @@
+class 
+{
+	public static void main (String[] args) 
+	{
+		byte num = 23;
+		System.out.print(num);
+	}
+}
